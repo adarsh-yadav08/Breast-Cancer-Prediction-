@@ -1,7 +1,7 @@
  ## Breast Cancer Prediction
 
 
-2.  **Run the Notebook:** Open the `breast_cancer_classification.ipynb` notebook in Jupyter or Google Colab.  Execute all the cells in the notebook.
+ **Run the Notebook:** Open the `breast_cancer_classification.ipynb` notebook in Jupyter or Google Colab.  Execute all the cells in the notebook.
 
 
 ## Evaluation Metrics
